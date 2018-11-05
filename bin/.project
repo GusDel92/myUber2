@@ -1,4 +1,29 @@
-<<<<<<< HEAD
+HEAD
+HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>myUber</name>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>myUber2</name>
+cadc64685ba6bdd937b9139b33ac417b5cf61be1
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+</projectDescription>
+HEAD
+
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 	<name>myUber</name>
@@ -16,22 +41,6 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
 </projectDescription>
-=======
-<?xml version="1.0" encoding="UTF-8"?>
-<projectDescription>
-	<name>myUber</name>
-	<comment></comment>
-	<projects>
-	</projects>
-	<buildSpec>
-		<buildCommand>
-			<name>org.eclipse.jdt.core.javabuilder</name>
-			<arguments>
-			</arguments>
-		</buildCommand>
-	</buildSpec>
-	<natures>
-		<nature>org.eclipse.jdt.core.javanature</nature>
-	</natures>
-</projectDescription>
->>>>>>> Modèle-UML-gus
+Modèle-UML-gus
+
+cadc64685ba6bdd937b9139b33ac417b5cf61be1
